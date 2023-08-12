@@ -31,3 +31,7 @@ filtered_image = filter..apply_filter('mean',   3, 0)
 ## Summary
 
 The DipWizards package is a powerful collection of functions and classes for generating noise and applying filters to images. With this package, you can enhance your images and adjust them with various transformations.
+
+## License
+
+This project is licensed under the MIT License.
