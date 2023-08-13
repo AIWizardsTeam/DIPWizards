@@ -18,7 +18,7 @@ pip install dipwizards
 Below is an example demonstrating how you can use the functions and classes of the `DipWizards` package to generate noise and apply different filters to images:
 
 ```python
-import Core.utils as utl
+import DipWizards.utils as utl
 
 # Create Gaussian noise
 noise_generator = utl.ImageNoiseRGB(image)
