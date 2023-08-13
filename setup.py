@@ -10,6 +10,6 @@ setup(
     install_requires=requirements,
     description='Dip package for images ',
     author='AI Wizards Team',
-    author_email='aiwizardsteam',
+    author_email='aiwizardsteam@gmail.com',
     packages=['dipwizards']
     )
