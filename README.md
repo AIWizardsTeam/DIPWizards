@@ -11,7 +11,10 @@ The `DipWizards` package is developed by the AIWizards team. It provides a colle
 ## Installation
 
 To install the `DipWizards` package, use the following command:
+
 pip install dipwizards
+or
+poetry install
 
 ## Usage Example
 
